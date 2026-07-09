@@ -1,0 +1,8 @@
+1. ¿Cuál es la diferencia entre Scrum y Kanban?
+Scrum trabaja por sprints de tiempo fijo y roles definidos. Kanban es flujo continuo sin sprints y se enfoca en limitar el trabajo en progreso.
+
+2. ¿Para qué sirve el Product Backlog?
+Es la lista priorizada de todas las funcionalidades, mejoras y correcciones que se quieren para el producto.
+
+3. ¿Qué es una iteración en metodologías ágiles?
+Es un ciclo corto de trabajo, normalmente de 1 a 4 semanas, donde se entrega un incremento de producto funcional.

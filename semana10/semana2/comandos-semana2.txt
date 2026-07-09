@@ -1,0 +1,1 @@
+pwd= ubicacion de disco; ls= lista de carpetas; cd= ingreso de carpeta; mkdir= crear carpeta

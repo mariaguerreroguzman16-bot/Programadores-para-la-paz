@@ -1,0 +1,1 @@
+la terminal permite una gestión de recursos mucho más rápida y precisa que cualquier interfaz gráfica. Es el lenguaje común en servidores, entorno de nube y automatización de despliegue.

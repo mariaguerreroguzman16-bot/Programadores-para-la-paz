@@ -1,0 +1,13 @@
+Es importante que las comunidades puedan registrar y consultar reportes en una plataforma tecnológica porque permite tener un control organizado de las incidencias.
+
+Con una API, los ciudadanos pueden reportar problemas como daños en infraestructura o contaminación de forma rápida y centralizada.
+
+Esto facilita que las autoridades vean en tiempo real qué está ocurriendo y puedan priorizar soluciones.
+
+Además, al consultar los reportes, la comunidad se mantiene informada y puede participar más activamente.
+
+Las plataformas tecnológicas evitan que la información se pierda o quede dispersa en papeles.
+
+También permiten guardar un historial para analizar patrones y prevenir futuros problemas.
+
+En resumen, registrar y consultar incidencias mejora la comunicación entre ciudadanos y autoridades, y hace la gestión comunitaria más transparente y eficiente.
