@@ -1,0 +1,13 @@
+1. Como usuario quiero ver un tablero Kanban para mover tareas de To Do a Done
+Criterios: Debe tener 3 columnas, se pueden arrastrar tarjetas
+Prioridad: Alta
+
+2. Como usuario quiero crear una tarea nueva
+Criterios: Botón "Nueva tarea", campos: título, descripción
+Prioridad: Alta
+
+3. Como usuario quiero asignar responsable a una tarea
+Criterios: Lista desplegable con miembros del equipo
+Prioridad: Media0
+y
+
