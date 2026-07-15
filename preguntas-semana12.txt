@@ -1,0 +1,5 @@
+1. ¿Qué es una API y para qué sirve en un sistema de apoyo comunitario?
+2. ¿Qué diferencia hay entre GET y POST en una API?
+3. ¿Por qué es importante validar los datos antes de guardarlos en la base de datos?
+4. ¿Qué medida de seguridad aplicaría para proteger los datos de los firmantes?
+5. ¿Qué ventaja tiene usar una automatización en lugar de enviar los mensajes manualmente?

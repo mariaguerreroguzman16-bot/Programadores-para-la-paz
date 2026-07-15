@@ -1,0 +1,17 @@
+Tabla: Causa
+- id_causa: INT, PK
+- nombre: VARCHAR(100)
+- descripcion: TEXT
+- meta_apoyos: INT
+
+Tabla: Apoyo
+- id_apoyo: INT, PK
+- id_causa: INT, FK
+- fecha_apoyo: DATETIME
+- estado: VARCHAR(20)
+
+Tabla: Firmante
+- id_firmante: INT, PK
+- id_apoyo: INT, FK
+- nombre: VARCHAR(100)
+- correo: VARCHAR(100)

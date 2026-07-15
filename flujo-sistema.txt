@@ -1,0 +1,6 @@
+1. El usuario ingresa a la plataforma y selecciona una causa.
+2. El usuario llena el formulario de apoyo con sus datos.
+3. El sistema valida que los datos obligatorios esten completos.
+4. El sistema guarda la informacion en la base de datos.
+5. El sistema activa la automatizacion y envia notificacion a los administradores.
+6. Los administradores revisan el nuevo apoyo en el panel.
