@@ -1,0 +1,1 @@
+Pruebas de las rutas:\n1. http://localhost:3000 -> Muestra el texto 'Servidor activo' en la pantalla.\n2. http://localhost:3000/saludo -> Muestra el texto 'Hola comunidad' en la pantalla.\n3. http://localhost:3000/mensaje/juan -> Lee la palabra 'juan' de la URL y muestra en pantalla 'Hola juan'.

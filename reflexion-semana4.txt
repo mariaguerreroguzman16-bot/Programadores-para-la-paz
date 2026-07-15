@@ -1,0 +1,7 @@
+Mi reflexión sobre la actividad de la Semana 4:
+
+Aprendí que Node.js permite crear un servidor web usando solo JavaScript.
+
+Fue importante entender cómo funcionan las peticiones y respuestas HTTP básicas, porque es la base de cualquier página web o aplicación.
+
+Esta actividad me mostró que puedo crear cosas funcionales desde mi celular con Termux, lo que me motiva a seguir aprendiendo sobre desarrollo web.

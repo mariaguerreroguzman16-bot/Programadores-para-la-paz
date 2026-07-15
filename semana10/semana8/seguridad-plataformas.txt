@@ -1,0 +1,5 @@
+1. No exponer datos personales de los usuarios en respuestas públicas
+2. Proteger credenciales usando variables de entorno, no código duro
+3. Usar conexiones seguras HTTPS para cifrar la información
+4. Registrar accesos y acciones importantes para auditoría
+5. Limitar acceso a información sensible solo a usuarios autorizados

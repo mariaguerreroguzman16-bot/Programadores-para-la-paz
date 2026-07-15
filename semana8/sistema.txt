@@ -1,0 +1,5 @@
+El comando uname -a muestra: Linux localhost 5.15.178-android13-8-00021-g6f2f96be86b9-ab13729987 #1 SMP PREEMPT Wed Jul 2 02:41:59 UTC 2025 aarch64 Android
+Esto es útil para saber qué versión de Linux, kernel y arquitectura tiene el servidor.
+
+El comando whoami muestra: u0_a398  
+Esto es útil para saber con qué usuario estás logueado y qué permisos tienes al administrar el servidor.

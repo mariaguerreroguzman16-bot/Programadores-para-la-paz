@@ -1,0 +1,9 @@
+Sistema operativo: Es la base del servidor, administra el hardware y permite ejecutar programas como Node.js. En Termux es Android.
+
+Node.js: Es el entorno de ejecución que permite correr JavaScript fuera del navegador, necesario para ejecutar server.js.
+
+Aplicación server.js: Es el código que define las rutas y la lógica del servidor usando Express. Responde a las solicitudes de los usuarios.
+
+Puerto: Es el número 3000 donde el servidor queda escuchando. Es la puerta por donde entran las solicitudes HTTP.
+
+Logs: Son los mensajes que aparecen en la terminal, como 'Servidor ejecutándose en puerto 3000'. Sirven para monitorear y detectar errores.

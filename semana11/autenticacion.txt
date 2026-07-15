@@ -1,0 +1,5 @@
+El login permite que un usuario ingrese a la aplicación con su usuario y contraseña para acceder a funciones específicas.
+
+Algunas rutas deben estar protegidas para que solo usuarios registrados puedan crear causas o ver información privada.
+
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens, claves de API ni datos sensibles de la comunidad, para proteger la privacidad de todos.

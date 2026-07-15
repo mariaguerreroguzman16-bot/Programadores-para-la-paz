@@ -1,0 +1,3 @@
+Al enviar un reporte con POST a http://localhost:3000/reportes, el servidor guarda el objeto en el array reportes y devuelve un mensaje de confirmación con el reporte creado.
+
+Al hacer una petición GET a http://localhost:3000/reportes, el servidor responde con un array JSON que contiene todos los reportes registrados hasta el momento. Si no hay reportes, devuelve un array vacío [].
